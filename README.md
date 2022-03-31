@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, NLP.
 - 💞️ I’m looking to collaborate on Kaggle competition.
 - 📫 How to reach me nabaichuan_y@163.com
+- blog https://blog.csdn.net/y1040468929
 
 <!---
 ShawYuan97/ShawYuan97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
