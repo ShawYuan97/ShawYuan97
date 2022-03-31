@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShawYuan97
 - 👀 I’m interested in achieving my thought by coding.
-- 🌱 I’m currently learning python, Java, NLP.
+- 🌱 I’m currently learning python, NLP.
 - 💞️ I’m looking to collaborate on Kaggle competition.
 - 📫 How to reach me nabaichuan_y@163.com
 
